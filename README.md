@@ -1,7 +1,7 @@
 # RasPi4+Ubuntuの開発環境
 ここではRasPi4にUbuntu20.04LTSをインストールし、Python3による開発環境を構築します。
 
-[R2CVに戻る](https://github.com/nishibra/r2cv)
+[R2CVに戻る](https://github.com/nishibra/r2cv-1)
 
 ### 目次
 
