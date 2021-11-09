@@ -35,7 +35,7 @@ RasPi4+Ubuntu20.04LTS+Python3をインストールします。
 
 RasPi4+Ubuntu20.04LTS+Python3+ROS2-Foxy+OpenCV4をインストールしたSDカードのイメージファイルは以下よりダウンロードできます。
 
->download: [SDCイメージファイル](http://www.arrc.jp/auto/r2cv_20210816.img)
+>download: [SDCイメージファイル](http://www.arrc.jp/auto/r2cv_20211109.img)
 
 >ユーザー:ubuntu
 >
