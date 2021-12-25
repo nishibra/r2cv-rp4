@@ -155,11 +155,11 @@ dtoverlay=i2c-rtc,ds3231
 以下のhwclockコマンドでRTCが機能しているかの確認ができます。
 ```
 #print hardware clock
-$ hwclock -r
+$ sudo hwclock -r
 #set the hardware clock from the current system time
-$ hwclock -w
+$ sudo hwclock -w
 #set the system time from the hardware clock
-$ hwclock -s
+$ sudo hwclock -s
 ```
 
 ### Dynamixel I/F
